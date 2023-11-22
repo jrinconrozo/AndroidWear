@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidWear</string>
+
+    <string name="txt_clave">Pon edad</string>
+    <string name="button">aceptar</string>
+
+    <string name="txt_2">condicion</string>
+    <string name="button2">poner</string>
+</resources>
